@@ -1,0 +1,53 @@
+#masthead .hgroup .support-text {
+  font-size: 14px;
+  font-style: normal;
+}
+
+.widget_circleicon-widget .circle-icon-box p.text {
+  font-size: 14px;
+}
+
+.entry-content p {
+  font-size: 14px;
+}
+
+.widget_headline-widget h3 {
+  font-size: 15px;
+}
+
+.entry-content p {
+  line-height: 26px;
+}
+
+
+
+/* Home */
+
+.home #main {
+  padding-top: 0;
+}
+
+.home.layout-full .panel-row-style.panel-row-style-full-width {
+  padding-top: 0;
+}
+
+a.ow-button-hover:hover {
+background-color: #C1BCC7!important;
+}
+
+
+.archive .site-content .page-header .page-title {
+    display: none;
+}
+
+#page-title {
+   display:none;
+}
+
+.so-widget-sow-layout-slider .sow-slider-pagination {
+	display: none !important;
+}
+
+.lineheight-plus {
+line-height: 32px;
+}
